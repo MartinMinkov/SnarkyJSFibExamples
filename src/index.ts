@@ -1,3 +1,8 @@
-import { Add } from './Add.js';
+import { FibWithoutRecursion } from './FibWithoutRecursion.js';
+import {
+  FibWithRecursion,
+  FibonacciSequence,
+  fibProof,
+} from './FibWithRecursion.js';
 
-export { Add };
+export { FibWithoutRecursion, FibWithRecursion, FibonacciSequence, fibProof };
